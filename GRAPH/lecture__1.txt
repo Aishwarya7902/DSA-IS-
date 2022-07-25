@@ -1,0 +1,38 @@
+SOME FEEL❤
+
+1.grapgh ko basic se medium se hard ki or le jayenge.
+
+2.confidence aane ke bad sawal khud hone lag jate hain.
+
+3.agar processed way me chloge na to usse kafi tagda wala confidence aata hai
+
+4.agar patience ke sath is playlist ko khatam kiya to is bat ki guarantee mai leta hun ki aap kabhi graph se daroge ni....aapse interview ke sawal ho jayenge
+
+5.basic building block ko clear karo kyuki usi se  confidence aata hai...aur confidence se hi sawal bante hain yaar!
+
+THE WHAT..........................??????????????????
+
+BHAI GRAPH HAI KYA.......KUCH NI YAR SIMPLE EK DATA STRUCTURE HI TO HAI😅
+
+THE WHY.............................?????????????????????
+
+BHAI GRAPH PADH KYU RAHE HAIN...
+|
+TO DEKHO HAMARE PASS TREE THA BUT TREE ME PROBLEM YE THI NA KI WO BAS PARENT CHILD RELATIONSHIP SHOW KAR SAKTA THA(BETA KABHI BAAP NI BAN SAKTA)
+
+LEKIN GRAPH KE CASE ME HUM KISI BHI NODE KO KISI SE BHI CONNECT KAR SAKTE HAIN NA...(eg in facebook koi bhi kisi ka bhi frnd ho sakta hai)
+
+6.dekho mai jyada technical baten ni karta aur jyada technical mujhe aati bhi ni...mujhe simple itna pata hai ki sawal hone chahiye bas....aur sawal ke liye 
+chahiye practice...practice ke liye chahiye confidence....aur confidence aata hai concept padhne se.
+
+7.GRAPH REPRESENTATION
+G={V,E}
+v stands for vertex
+E stands for edge
+v={v1,v2,v3,v4,v5}
+E={(v1,v2),(v1,v3),(v3,v4),(v2,v4),(v3,v5),(v4,v5)}
+
+kisi bhi graph ko represent karne ke liye 2 chizen chahiye 
+1.vertex
+2.edge
+     
